@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kevin Romero</h1>
 <h3 align="center">A Software engineering student from Mexico</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinro29" alt="kevinro29" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://digital-portfolio-romero.netlify.app](https://digital-portfolio-romero.netlify.app)
 
 - 💬 Ask me about **Django, PHP, Ionic (angular, vue)**
 
 - 📫 How to reach me **kevinro0829@gmail.com**
+
+- ⚡ Fun fact **When I really like something, I can spend most of my day doing it, for example, programming. :computer:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinro29&show_icons=true&locale=en&layout=compact" alt="kevinro29" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinro29&show_icons=true&locale=en" alt="kevinro29" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinro29&" alt="kevinro29" /></p>
