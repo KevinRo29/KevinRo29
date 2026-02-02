@@ -31,6 +31,10 @@ Software Engineer based in **Querétaro, Mexico 🇲🇽**. Focused on building 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinro29&layout=compact&theme=tokyonight&hide_langs_below=1" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinro29&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 ---
 
 ### 📫 Connect with me
