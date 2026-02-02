@@ -39,7 +39,7 @@ Software Engineer based in **Querétaro, Mexico 🇲🇽**. Focused on building 
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/kevinjairromeropulido" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/kevin-romero-pulido-450b41205/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kevinro0829@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://digital-portfolio-romero.netlify.app" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://digital-portfolio-kromero.netlify.app/home" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
